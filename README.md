@@ -26,3 +26,13 @@ RLTerraria 目前处于早期开发阶段，但未来计划清晰：
 主线任务：编写引人入胜的主线剧情，推动玩家的冒险历程。
 物品平衡：全方位调整物品属性与技能，确保战斗过程更加公平、流畅。
 无论你是激烈战斗的狂热爱好者，还是寻找挑战的冒险新手，RLTerraria 都将是你不可错过的战斗冒险体验。踏上这片战火四起的世界，成为无畏的勇士吧！
+
+数据包
+https://www.curseforge.com/minecraft/mc-mods/dnt-ancient-city-overhaul
+https://modrinth.com/datapack/dungeons+
+https://modrinth.com/datapack/lukis-grand-capitals
+https://modrinth.com/datapack/better-lush-caves
+https://modrinth.com/datapack/more-mobs
+资源包
+https://www.curseforge.com/minecraft/texture-packs/fresh-moves
+部分音频文件来自整合包Legendary Edition，已经取得授权
